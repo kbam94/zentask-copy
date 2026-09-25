@@ -1,0 +1,7 @@
+{
+  "name": "ZenTask",
+  "description": "A polished, dark-themed mobile-first todo application with local persistence.",
+  "model": "google/gemma-4-31b-it",
+  "prompt": "Build me a polished mobile-first to-do list application. Users should be able to create tasks, mark tasks complete, edit tasks, delete tasks, and filter between all, active, and completed tasks. Show the number of remaining tasks. Persist tasks locally. Use a dark modern interface with smooth but subtle interactions.",
+  "generatedAt": "2026-09-25T07:34:17.640Z"
+}
